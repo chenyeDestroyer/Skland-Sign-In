@@ -15,8 +15,8 @@ cron: "0 1 * * *"
 # game_type: 0表示都签(默认)，1表示只签明日方舟，2表示只签终末地
 
 users:
-  - nickname: "我的账号"
-    token: "这里填入教程中获取的Token"token: “qswlucAvoWZIAaDpgjbWXej9”
+  - nickname: "我的账号"  - 昵称: 我的账号
+    token: "这里填入教程中获取的Token"token: “qswlucAvoWZIAaDpgjbWXej9”令牌: “此处填入教程中获取的Token”令牌: “qswlucAvoWZIAaDpgjbWXej9”
     game_type: 0
 
 #  - nickname: "我的"# - 昵称: "我的小号"# - nickname: “我的小号”# - 昵称: “我的小号”# - 昵称: "我的小号"# - 昵称: "我的小号"# - 昵称: “我的小号”# - 昵称: “我的小号”# - 昵称: “我的小号”# - 昵称: “我的小号”# - 昵称: “我的小号”# - 昵称: “我的小号”# - 昵称: “我的小号”# - 昵称: “我的小号”# - 昵称: “我的小号”# - 昵称: “我的小号”
